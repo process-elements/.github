@@ -1,6 +1,6 @@
 ## The Process Platform Websites
 
-Primary Sales & Information Website
+<!-- Primary Sales & Information Website
 * https://process.co
 
 Workflow & WorkOS Application
@@ -13,7 +13,7 @@ Developer Portal and Documentation
 * https://developers.process.co
 
 Status
-* https://status.process.co
+* https://status.process.co -->
 
 ## Official Process Platform Code Repos
 
