@@ -38,6 +38,14 @@ Element Creation
 <img width="295" height="0">
 <p> 
 <small>
+Element Creation
+</small>
+</p>
+</th>
+<th align="center">
+<img width="295" height="0">
+<p> 
+<small>
 Helm Charts / Infra
 </small>
 </p>
@@ -49,6 +57,11 @@ Helm Charts / Infra
   <a href="https://github.com/process-co/">process-co</a>
 </td>
 <td align="center">
+<!-- REMOVE THE BACKSLASHES -->
+  <a href="https://github.com/process-partners/">process-partners</a>
+</td>
+
+  <td align="center">
 <!-- REMOVE THE BACKSLASHES -->
   <a href="https://github.com/process-elements/">process-elements</a>
 </td>
