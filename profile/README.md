@@ -38,7 +38,7 @@ Element Creation
 <img width="295" height="0">
 <p> 
 <small>
-Element Creation
+Element Registry
 </small>
 </p>
 </th>
