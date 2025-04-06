@@ -1,5 +1,3 @@
-## The Process Platform Websites
-<!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://github.com/process-co/">
     <img src="https://github.com/user-attachments/assets/29f60712-e4a5-4939-99d1-48ce048b553e" alt="Logo">
