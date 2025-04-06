@@ -5,7 +5,7 @@
     <img src="https://github.com/user-attachments/assets/29f60712-e4a5-4939-99d1-48ce048b553e" alt="Logo">
   </a>
 
-  <h3 align="center">The Process Co, Inc.</h3>
+  <h3 align="center">The Process Co</h3>
 
   <p align="center">
     Your business already runs. We help it run better.
