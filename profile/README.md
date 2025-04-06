@@ -38,16 +38,6 @@ Developer Portal and Documentation
 Status
 * https://status.process.co -->
 
-## process.co - Automation Reference Platform
-
-How to get started
-
-```sh
-  npx process.co
-
-```
-
-
 <!--
 
 **Here are some ideas to get you started:**
